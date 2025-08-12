@@ -22,7 +22,7 @@ The goal was to create a responsive profile card with social media links using H
 
 ## Live Demo
 
-- **Live Site:** [Netlify Site](#)
+- **Live Site:** [Netlify Site](https://sociallinkprofile506.netlify.app/)
 - **Frontend Mentor Solution Page:** [click here](#)
 
 ## What I Learned
